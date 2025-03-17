@@ -1,1 +1,2 @@
 print("hellow")
+print("My car is a wonderful vehicle. It is reliable, efficient, and comfortable. I use it daily to commute to work, run errands, and go on road trips. It has a sleek design and is equipped with modern features that make driving enjoyable. I take good care of my car by servicing it regularly and keeping it clean. My car is not just a mode of transportation; it is an essential part of my life.")
