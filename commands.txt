@@ -50,3 +50,12 @@ git reset --soft HEAD~1
 
 # Remove files from staging area
 git reset <file-name>
+git init
+git status
+git add .
+git status
+git commit -m "the first commit"
+git status
+git remote add origin https://github.com/rushid18/1703newps.git
+git remote -v
+  git push origin master
