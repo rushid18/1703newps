@@ -63,4 +63,4 @@ git remote -v
 
 the new changes stated
 query has been resolved
-you learned about the clone fork push pull from github to local viceversa\
+you learned about the clone fork push pull from github to local viceversa
