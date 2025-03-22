@@ -1,5 +1,5 @@
 def add_numbers(a, b):
-    return a + b
+    return a + 
 
 num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
